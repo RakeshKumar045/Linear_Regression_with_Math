@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=RakeshKumar045&color=blue)
+
+
 # Linear-regression-with-Math
 Linear Regression explained using python without using scikit learn
 Math behind Linear Regression explained.
